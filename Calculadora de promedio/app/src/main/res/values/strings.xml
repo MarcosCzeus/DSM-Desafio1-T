@@ -1,0 +1,16 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Promedio Estudiantil</string>
+    <string name="hint_input">Ingresa un número</string>
+    <string name="input_name_hint">Nombre del Estudiante</string>
+    <string name="input_note1_hint">Nota 1 (15%)</string>
+    <string name="input_note2_hint">Nota 2 (15%)</string>
+    <string name="input_note3_hint">Nota 3 (20%)</string>
+    <string name="input_note4_hint">Nota 4 (25%)</string>
+    <string name="input_note5_hint">Nota 5 (25%)</string>
+    <string name="calculate_average">Calcular Promedio</string>
+    <string name="result">Resultado: </string>
+    <string name="input_error">Por favor, ingresa todos los datos solicitados</string>
+    <string name="note_error">Por favor, ingresa notas válidas entre 0 y 10</string>
+    <string name="final_result">Estudiante: %1$s\nPromedio Final: %2$.2f\nEstado: %3$s</string>
+</resources>
